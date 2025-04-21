@@ -1,0 +1,5 @@
+<h2>Step 1: Choose Username</h2>
+<form method="POST" action="/step1">
+  <input name="username" placeholder="Enter username" required />
+  <button type="submit">Next</button>
+</form>
